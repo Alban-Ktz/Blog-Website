@@ -1,4 +1,4 @@
-# 📓 School Project - Basic website
+# 📓 School Project - Blog Website using PHP
 ## Information
 - Done in the second year of my computer science DUT. (Nov. 2021)
 - The objective was to create a blog website, with a system of Login & Sign Up, create a topic, and allows to user to comment this one
